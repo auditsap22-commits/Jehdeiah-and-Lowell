@@ -40,7 +40,6 @@ const galleryItems = [
   { image: "/mobile-background/couple (12).jpg", text: " " },
   { image: "/mobile-background/couple (13).jpg", text: " " },
   { image: "/mobile-background/couple (14).jpg", text: " " },
-  { image: "/mobile-background/couple (15).jpg", text: " " },
 ]
 
 export function Gallery() {
