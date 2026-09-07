@@ -7,7 +7,7 @@ export const siteConfig = {
   },
   wedding: {
     date: "November 29, 2026",
-    time: "4:30 PM",
+    time: "3:30 PM",
     venue: "Kitchen2K Fatima Village, Tacloban City, Leyte",
     tagline: "are getting married!",
     theme: "Our wedding palette is inspired by timeless elegance and warmth.Motif Colors: Midnight Blue, Soft Blue, Light Blue, White",
@@ -26,7 +26,7 @@ export const siteConfig = {
     facebook: "https://www.facebook.com/KITCHEN2K",
     date: "November 29, 2026",
     day: "Sunday",
-    time: "4:30 PM",
+    time: "3:30 PM",
     entourageTime: "3:30 PM",
     guestsTime: "4:00 PM",
   },
