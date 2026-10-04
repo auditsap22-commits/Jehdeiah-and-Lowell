@@ -64,7 +64,7 @@ interface TimelineEvent {
 
 const timelineEvents: TimelineEvent[] = [
   {
-    time: siteConfig.ceremony.entourageTime,
+    time: "3:00 PM",
     title: `Arrival at the ${ceremonyVenue}`,
     description: "Please arrive on time to find your seat, settle in, and get ready for the celebration.",
     location: ceremonyVenue,
